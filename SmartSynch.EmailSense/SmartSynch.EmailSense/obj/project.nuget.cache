@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NIRyE5qkQT8=",
+  "dgSpecHash": "xlfZXeMPMAw=",
   "success": true,
-  "projectFilePath": "D:\\SmartSynchAI\\Projects\\SmartSynchAI\\SmartSynch.EmailSense\\SmartSynch.EmailSense\\SmartSynch.EmailSense.csproj",
+  "projectFilePath": "D:\\RecoSample\\RecoSample\\SmartSynch.EmailSense\\SmartSynch.EmailSense\\SmartSynch.EmailSense.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\bouncycastle.cryptography\\2.5.1\\bouncycastle.cryptography.2.5.1.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\mailkit\\4.11.0\\mailkit.4.11.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SmartSynchAI\\Projects\\SmartSynchAI\\SmartSynch.EmailSense\\SmartSynch.EmailSense\\SmartSynch.EmailSense.csproj": {}
+    "D:\\RecoSample\\RecoSample\\SmartSynch.EmailSense\\SmartSynch.EmailSense\\SmartSynch.EmailSense.csproj": {}
   },
   "projects": {
-    "D:\\SmartSynchAI\\Projects\\SmartSynchAI\\SmartSynch.EmailSense\\SmartSynch.EmailSense\\SmartSynch.EmailSense.csproj": {
+    "D:\\RecoSample\\RecoSample\\SmartSynch.EmailSense\\SmartSynch.EmailSense\\SmartSynch.EmailSense.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SmartSynchAI\\Projects\\SmartSynchAI\\SmartSynch.EmailSense\\SmartSynch.EmailSense\\SmartSynch.EmailSense.csproj",
+        "projectUniqueName": "D:\\RecoSample\\RecoSample\\SmartSynch.EmailSense\\SmartSynch.EmailSense\\SmartSynch.EmailSense.csproj",
         "projectName": "SmartSynch.EmailSense",
-        "projectPath": "D:\\SmartSynchAI\\Projects\\SmartSynchAI\\SmartSynch.EmailSense\\SmartSynch.EmailSense\\SmartSynch.EmailSense.csproj",
+        "projectPath": "D:\\RecoSample\\RecoSample\\SmartSynch.EmailSense\\SmartSynch.EmailSense\\SmartSynch.EmailSense.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "D:\\SmartSynchAI\\Projects\\SmartSynchAI\\SmartSynch.EmailSense\\SmartSynch.EmailSense\\obj\\",
+        "outputPath": "D:\\RecoSample\\RecoSample\\SmartSynch.EmailSense\\SmartSynch.EmailSense\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
