@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SmartSynchAI\\Projects\\SmartSynchAI\\SmartSynch.EmailSense\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58DB17BD-391F-47E5-8DF2-B0606F59DB0E}|SmartSynch.EmailSense\\SmartSynch.EmailSense.csproj|d:\\smartsynchai\\projects\\smartsynchai\\smartsynch.emailsense\\smartsynch.emailsense\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58DB17BD-391F-47E5-8DF2-B0606F59DB0E}|SmartSynch.EmailSense\\SmartSynch.EmailSense.csproj|solutionrelative:smartsynch.emailsense\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58DB17BD-391F-47E5-8DF2-B0606F59DB0E}|SmartSynch.EmailSense\\SmartSynch.EmailSense.csproj|d:\\smartsynchai\\projects\\smartsynchai\\smartsynch.emailsense\\smartsynch.emailsense\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58DB17BD-391F-47E5-8DF2-B0606F59DB0E}|SmartSynch.EmailSense\\SmartSynch.EmailSense.csproj|solutionrelative:smartsynch.emailsense\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58DB17BD-391F-47E5-8DF2-B0606F59DB0E}|SmartSynch.EmailSense\\SmartSynch.EmailSense.csproj|d:\\smartsynchai\\projects\\smartsynchai\\smartsynch.emailsense\\smartsynch.emailsense\\emailattachmentdownloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58DB17BD-391F-47E5-8DF2-B0606F59DB0E}|SmartSynch.EmailSense\\SmartSynch.EmailSense.csproj|solutionrelative:smartsynch.emailsense\\emailattachmentdownloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58DB17BD-391F-47E5-8DF2-B0606F59DB0E}|SmartSynch.EmailSense\\SmartSynch.EmailSense.csproj|d:\\smartsynchai\\projects\\smartsynchai\\smartsynch.emailsense\\smartsynch.emailsense\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{58DB17BD-391F-47E5-8DF2-B0606F59DB0E}|SmartSynch.EmailSense\\SmartSynch.EmailSense.csproj|solutionrelative:smartsynch.emailsense\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "D:\\SmartSynchAI\\Projects\\SmartSynchAI\\SmartSynch.EmailSense\\SmartSynch.EmailSense\\EmailService.cs",
+              "RelativeDocumentMoniker": "SmartSynch.EmailSense\\EmailService.cs",
+              "ToolTip": "D:\\SmartSynchAI\\Projects\\SmartSynchAI\\SmartSynch.EmailSense\\SmartSynch.EmailSense\\EmailService.cs",
+              "RelativeToolTip": "SmartSynch.EmailSense\\EmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T10:31:45.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\SmartSynchAI\\Projects\\SmartSynchAI\\SmartSynch.EmailSense\\SmartSynch.EmailSense\\appsettings.json",
+              "RelativeDocumentMoniker": "SmartSynch.EmailSense\\appsettings.json",
+              "ToolTip": "D:\\SmartSynchAI\\Projects\\SmartSynchAI\\SmartSynch.EmailSense\\SmartSynch.EmailSense\\appsettings.json",
+              "RelativeToolTip": "SmartSynch.EmailSense\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-17T10:16:07.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmailAttachmentDownloader.cs",
+              "DocumentMoniker": "D:\\SmartSynchAI\\Projects\\SmartSynchAI\\SmartSynch.EmailSense\\SmartSynch.EmailSense\\EmailAttachmentDownloader.cs",
+              "RelativeDocumentMoniker": "SmartSynch.EmailSense\\EmailAttachmentDownloader.cs",
+              "ToolTip": "D:\\SmartSynchAI\\Projects\\SmartSynchAI\\SmartSynch.EmailSense\\SmartSynch.EmailSense\\EmailAttachmentDownloader.cs",
+              "RelativeToolTip": "SmartSynch.EmailSense\\EmailAttachmentDownloader.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAYwDoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T10:13:26.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SmartSynchAI\\Projects\\SmartSynchAI\\SmartSynch.EmailSense\\SmartSynch.EmailSense\\Program.cs",
+              "RelativeDocumentMoniker": "SmartSynch.EmailSense\\Program.cs",
+              "ToolTip": "D:\\SmartSynchAI\\Projects\\SmartSynchAI\\SmartSynch.EmailSense\\SmartSynch.EmailSense\\Program.cs",
+              "RelativeToolTip": "SmartSynch.EmailSense\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T10:04:16.283Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
